@@ -1,0 +1,28 @@
+name: Blue-thumb.com
+favicon: null
+layout_spectrum: 0.5382961903233081
+typography_spectrum: 0.34224976040422916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8902797054033726
+  lightness: 0.07309726648963988
+  saturation: 0.8144917236641049
+  rhythmicContrast: 0.07997347484342754
+purpose: []
